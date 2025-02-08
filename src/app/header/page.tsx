@@ -20,7 +20,7 @@ const Header = () => {
       <div className="container mx-auto flex flex-wrap items-center justify-center space-x-4 md:justify-between">
         {/* Logo */}
         <Link href="/" className="text-xl font-bold">
-          <span className="text-blue-600">My</span>Store
+          <span className="text-blue-600">Zastand</span>Store
         </Link>
 
         {/* Search Bar */}
