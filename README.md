@@ -1,5 +1,5 @@
 
-# Mystore
+# ZastandStore
 ## ^Badges^
 
 [![MIT License](https://img.shields.io/badge/follow-Me-purpel.svg)](https://choosealicense.com/licenses/mit/)
